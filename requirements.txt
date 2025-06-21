@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+pandas
+tqdm
+selenium
+argparse
+streamlit
+python-dotenv
+spacy
+tqdm

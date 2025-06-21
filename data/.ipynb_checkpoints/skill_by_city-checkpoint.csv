@@ -1,0 +1,23 @@
+skills,edinburgh,london,manchester
+agile,3,3,4
+airflow,1,9,0
+aws,0,24,8
+azure,8,14,26
+bash,0,2,0
+c++,0,2,0
+data visualization,0,6,0
+deep learning,0,1,0
+etl,3,15,8
+excel,1,4,3
+gcp,0,6,5
+java,0,2,1
+jira,0,0,2
+nlp,0,8,5
+power bi,3,12,8
+python,8,53,33
+r,3,2,3
+scikit-learn,0,3,0
+spark,1,4,1
+sql,8,32,17
+tableau,0,0,5
+tensorflow,0,7,0
